@@ -1,0 +1,38 @@
+Types of DBMS:
+  hierarchial dbms
+  network dbms
+  object-oriented dbms
+  relational dbms
+  
+There are 2 common types in databases: relational and non-relational
+Relational:
+  Data is stored in tabular format. Tabular format is systematic arrangement of rows and columns. 
+  MS SQL, MySQL
+
+Non-relational:
+  Data is stored in key-value pairs.
+  Commonly used: MongoDB, Amazon DynamoDB, Redis
+
+---Types of DBMS architecture---
+1-Tier architecture
+2-Tier architecture
+3-Tier architecture
+
+Features of SQL:
+  Analytics
+  Business intelligence
+  User experience
+  Availability
+  Performance
+  Security
+
+---Simple SQL query---
+SELECT EMPLOYEE.NAME, EMPLOYEE.SURNAME FROM EMPLOYEE WHERE EMPLOYEE.SALARY>3000
+
+Basic data types in SQL:
+  INT
+  VARCHAR()
+  DECIMAL (M, N)
+  DATE
+  TIMESTAMP
+  BLOB
