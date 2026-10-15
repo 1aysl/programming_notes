@@ -36,3 +36,6 @@ Basic data types in SQL:
   DATE
   TIMESTAMP
   BLOB
+
+---Delete table---
+DROP TABLE EMPLOYEE
