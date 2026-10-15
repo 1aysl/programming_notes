@@ -1,1 +1,20 @@
+HTML (HyperText Markup Language) forms the backbone of every website.
+From simple text to complex layout.
+Every HTML documents follows a specific structure. It starts <!DOCTYPE html>.
+<html></html> tag wraps all the content.
+
+📌 CSS (Cascading Style Sheets) should be responsible for every visually appealing element.
+Colors
+Fonts
+Layouts
+Responsiveness
+
+1) Inline styles
+2) Internal stylesheets
+3) External stylesheets
+
+You want interactivity? Using JavaScript.
+
+HATEOAS (Hypermedia as the engine of application state)
+
 Layout with Flexbox
