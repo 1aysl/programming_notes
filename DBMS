@@ -3,7 +3,7 @@ Types of DBMS:
   network dbms
   object-oriented dbms
   relational dbms
-  
+
 There are 2 common types in databases: relational and non-relational
 Relational:
   Data is stored in tabular format. Tabular format is systematic arrangement of rows and columns. 
@@ -27,6 +27,7 @@ Features of SQL:
   Security
 
 ---Simple SQL query---
+---Retrieve data from table---
 SELECT EMPLOYEE.NAME, EMPLOYEE.SURNAME FROM EMPLOYEE WHERE EMPLOYEE.SALARY>3000
 
 Basic data types in SQL:
@@ -39,3 +40,13 @@ Basic data types in SQL:
 
 ---Delete table---
 DROP TABLE EMPLOYEE
+
+---Modify table---
+ALTER TABLE EMPLOYEE ADD SALARY DECIMAL (M, N)
+
+📌 What are the different subsets of SQL?
+    1. DDL
+    2. DQL
+    3. DML
+    4. DCL
+    5. TCL
