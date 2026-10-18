@@ -55,5 +55,10 @@ There are 2 main types of HTML lists: unordered and ordered
 
 You can add any type of list inside another. This is called a nested list.
 
+🧩 Links and anchor tags
+<a href="index.html">Home</a>
+<a href="#section1">Go to section1</a>
+<a href="https://www.amazon.com" target="_blank">Amazon</a>
+<a href="#top">Back to the top of the page</a>
 
 Layout with Flexbox
