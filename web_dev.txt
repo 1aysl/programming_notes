@@ -19,4 +19,41 @@ HATEOAS (Hypermedia as the engine of application state) is helping you design mo
 
 HTML, CSS, JavaScript, API development and Security.
 
+🧡 Using Postman, you test APIs before deployment.
+API (Application Programming Interface)
+
+Let's set up an IDE (Integrated Development Environment). You will use different IDEs.
+
+Visual Studio Code is a Microsoft product.
+Visual Studio Code is a cross-platform software which means that it can be installed on different operating systems like Windows and macOS.
+
+🧩Introduction to HTML
+
+HTML structures every webpage.
+HTML isn't programming language like Java, C++ or Python. It's markup language.
+The latest version, HTML5, introduces some features like audio, video and enhanced mobile support.
+<!DOCTYPE html> 
+<html></html> wraps all the content.
+<head></head> section is a container for metadata. And it's essential for SEO (Search Engine Optimization).
+<body></body> section contains the webpage's visible content.
+<h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+<p> paragraphs
+<br> line break
+<img>
+
+🧩Empty tags are those that have no end tag.
+
+🧩 Lists in HTML
+There are 2 main types of HTML lists: unordered and ordered
+<ul><li></li></ul>
+<ol><li></li></ol>
+
+You can add any type of list inside another. This is called a nested list.
+
+
 Layout with Flexbox
