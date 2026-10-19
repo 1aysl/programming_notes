@@ -74,5 +74,33 @@ Alternative text description if the image cannot be loaded.
 
 </table>
 💐 Row and column spanning
+colspan="2"
+rowspan="2"
+
+<caption>Weekly Class Schedule</caption>
+<thead></thead>
+<th></th>
+<tr></tr>
+<td></td>
+<th></th>
+<tbody></tbody>
+<tfoot></tfoot>
+
+🧩 Forms in HTML
+Form elements: text and password input, multi-line text inputs, buttons, drop-down menus, checkboxes, radio buttons
+GET and POST
+<form action="#" method="POST">
+<label> is used to provide a descriptive label for an input element.
+<textarea id="" name="" rows="5" cols="30"></textarea>
+<select> element is used to create a drop-down list.
+<option value=""></option>
+<option></option>
+<option></option>
+...
+</select>
+</form>
+
+Input fields: text, password, email, number, checkbox, radio
+
 
 Layout with Flexbox
