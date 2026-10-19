@@ -61,4 +61,18 @@ You can add any type of list inside another. This is called a nested list.
 <a href="https://www.amazon.com" target="_blank">Amazon</a>
 <a href="#top">Back to the top of the page</a>
 
+🧩 Images in HTML
+Images are more effective than text. 
+<img src="image url"> creates a holding space for the image linked to the webpage.
+src is the mandatory attribute. 
+alt specifies alternative text for the image.
+Alternative text description if the image cannot be loaded.
+
+🧩 Tables in HTML
+❤️‍🔥 border="1" attribute adds a simple border.
+<table border="1">
+
+</table>
+💐 Row and column spanning
+
 Layout with Flexbox
