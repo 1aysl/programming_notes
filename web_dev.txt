@@ -101,6 +101,27 @@ GET and POST
 </form>
 
 Input fields: text, password, email, number, checkbox, radio
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+🦋 Semantic tags give a specific meaning to each part of a webpage.
+🦋 Semantic tags improve the structure, accessibility and SEO of webpages.
+🦋 In general, semantic tags improve readability for all users.
 
+<header>
+<footer>
+<article>
+<aside> defines sidebars or call-out boxes
+<section>
+<nav> specifies a navigation menu you can guide users where to go.
+<main> defines the primary content of a webpage. Generally, only one <main> element should be used per page.
+
+Content-based semantic tags
+<h1>
+<p>
+
+❤️ Non-semantic tags
+<div> defines a division or section within a webpage.
+<span> is an inline container used to group and style text or elements within a document.
 
 Layout with Flexbox
