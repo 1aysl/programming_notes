@@ -120,8 +120,13 @@ Content-based semantic tags
 <h1>
 <p>
 
+❤️‍🔥 Introduction to CSS
+HTML is the skeleton of a webpage, while CSS provides the styling.
+What are the methods of applying CSS?
+
 ❤️ Non-semantic tags
 <div> defines a division or section within a webpage.
 <span> is an inline container used to group and style text or elements within a document.
+
 
 Layout with Flexbox
