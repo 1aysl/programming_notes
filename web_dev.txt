@@ -128,5 +128,39 @@ What are the methods of applying CSS?
 <div> defines a division or section within a webpage.
 <span> is an inline container used to group and style text or elements within a document.
 
+👀 Introduction to JavaScript
+JS functions and events are the building blocks of interactivity in web development.
+A function is a reusable block of code.
+A function performs a specific task.
+Functions can take input (called parameters) and produce outputs known as return values.
 
+****************************************************************************************************
+function addNums(a,b){
+return a+b;
+}
+
+let sum=addNums(3, 5);
+console.log(sum);
+****************************************************************************************************
+
+What is the event handling? JavaScript detects and responds to user actions, like submitting a form, clicking a button.
+
+script.js
+function displayMessage(){
+alert("Button clicked!");
+}
+
+index.html
+<button onclick="displayMessage()">Click me!</button>
+
+👌 Adding interactivity: addEventListener() and querySelectorAll()
+
+✅ DOM manipulation
+Document Object Model
+Selecting elements
+document.getElementById("id"); // selects by id
+document.getElementsByClassName("className"); // selects by class
+document.getElementsByTagName("tagName"); // selects by tag name
+
+❤️ Conditionals and loops
 Layout with Flexbox
