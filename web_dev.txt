@@ -127,6 +127,19 @@ What are the methods of applying CSS?
 ❤️ Non-semantic tags
 <div> defines a division or section within a webpage.
 <span> is an inline container used to group and style text or elements within a document.
+----------------------------------------------------------------------------------------------------------------------
+justify-content (horizontal spacing)
+align-items (vertical alignment)
+fr (fraction)
+----------------------------------------------------------------------------------------------------------------------
+❤️‍🔥 Responsive design adapts different devices.
+@media query
+viewport media tag in html
+----------------------------------------------------------------------------------------------------------------------
+🌺 CSS transitions and animations
+-keyframe animations
+convert navbar to sidebar for mobile view
+
 
 👀 Introduction to JavaScript
 JS functions and events are the building blocks of interactivity in web development.
@@ -163,4 +176,44 @@ document.getElementsByClassName("className"); // selects by class
 document.getElementsByTagName("tagName"); // selects by tag name
 
 ❤️ Conditionals and loops
+if
+else if
+else
+
+Loops repeatable code
+for loop
+
+✅ Arrays and objects
+Arrays and objects are 2 fundamental data structures in JS.
+Arrays act like organized lists where each item has a specific order.
+Objects store data in key-value pairs.
+
+Create an array in JS
+let cars=["nissan", "mustang" "toyota"];
+or
+let cars=new Array("nissan", "mustang", "toyota"]; // it's less commonly used.
+console.log(cars[0]); // accessing an element
+
+Common array methods help to add, remove, and work with elements.
+push()
+pop()
+length
+shift()
+unshift()
+forEach()
+
+💐 Creating and accessing an object
+let person={
+name: "Alice",
+age: 30,
+email: "alice@example.com"
+};
+
+Common object methods
+Object.keys(obj)
+Object.values(obj)
+Object.entries(obj)
+
+❤️‍🔥 Form validation
+Password validation
 Layout with Flexbox
