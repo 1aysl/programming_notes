@@ -139,9 +139,19 @@ viewport media tag in html
 🌺 CSS transitions and animations
 -keyframe animations
 convert navbar to sidebar for mobile view
+If both inline styles and external stylesheet are applied to the same element, the inline styles will override the external styles.
 
+🩷 Valid CSS selectors
+Element selector
+Class selector (.)
+ID selector (#)
+Pseudo-element selector (::)
 
 👀 Introduction to JavaScript
+Dynamic, interactive pages
+Layout (digital components are designed, planned and arranged)
+🌷 AJAX Asynchronous JavaScript and XML
+❤️‍🔥JavaScript basics (variables, data types, operators)
 JS functions and events are the building blocks of interactivity in web development.
 A function is a reusable block of code.
 A function performs a specific task.
