@@ -123,6 +123,7 @@ Content-based semantic tags
 ❤️‍🔥 Introduction to CSS
 HTML is the skeleton of a webpage, while CSS provides the styling.
 What are the methods of applying CSS?
+Layout with Flexbox
 
 ❤️ Non-semantic tags
 <div> defines a division or section within a webpage.
@@ -149,6 +150,10 @@ Pseudo-element selector (::)
 
 👀 Introduction to JavaScript
 Dynamic, interactive pages
+JS is a core language for building web applications.
+What are the difference between libraries and frameworks?
+<script src="script.js" defer></script>
+Form input validation
 Layout (digital components are designed, planned and arranged)
 🌷 AJAX Asynchronous JavaScript and XML
 ❤️‍🔥JavaScript basics (variables, data types, operators)
@@ -226,4 +231,18 @@ Object.entries(obj)
 
 ❤️‍🔥 Form validation
 Password validation
-Layout with Flexbox
+Add JS validation to all the fields.
+🌹 JS libraries and frameworks
+--------------------------------------------------jQuery------------------------------------------------
+jQuery is widely used JS library created to simplify tasks such as DOM manipulation, event handling, and AJAX calls.
+Vanilla JS vs jQuery
+
+React and Angular are JS frameworks.
+console.log(0.1+0.2===0.3); // false
+------------------------------------------------------------------Error handling in JS
+You can handle exceptions using try catch finally blocks in JS.
+try catch finally blocks to catch errors, handle them gracefully, and execute any necessary cleanup.
+exception
+unchecked errors
+Regex (regular expression)
+-----------------------------------------------------------------Java web development------------------------------------------------------
