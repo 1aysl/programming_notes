@@ -246,3 +246,8 @@ exception
 unchecked errors
 Regex (regular expression)
 -----------------------------------------------------------------Java web development------------------------------------------------------
+client-server model
+spring framework -> dependency injection, aop, pojo
+mvc (model view controller)
+Model is responsible for managing the application's data.
+Controller is the of the application.
