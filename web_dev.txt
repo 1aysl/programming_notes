@@ -250,3 +250,26 @@ client-server model
 spring framework -> dependency injection, aop, pojo
 mvc (model view controller)
 Model is responsible for managing the application's data.
+@GetMapping({"/", "/products"})
+☄️Introduction to JPA Java Persistence API
+ORM
+🩷Validating user input
+@Min
+@Max
+@NotNull
+@Size
+Relational Database Model
+Spring Data JPA is part of the largest Spring Framework.
+Less code, more speed
+Controller
+Model
+Repository
+Service
+BIM (Bill of Materials)
+Tomcat or Jetty
+Start the app: mvn spring-boot:run
+❤️Advanced Spring Boot features
+Spring Security
+Spring Data
+Spring Actuator
+Spring IOC container
