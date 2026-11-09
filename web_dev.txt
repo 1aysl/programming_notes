@@ -282,4 +282,16 @@ GlobalExceptionHandler
 @ControllerAdvice
 Custom exceptions
 ResourceNotFoundException class
+🌺Validation
+How to validate data in a Restful API?
+spring-boot-starter-validation
+@Future()
+@Valid
+🧩HATEOS
+Links in HATEOS responses
+  Self
+  Action
+  Transition
+  Collection
+  
 
