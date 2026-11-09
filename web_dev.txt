@@ -273,3 +273,13 @@ Spring Security
 Spring Data
 Spring Actuator
 Spring IOC container
+-----------------------------------------------------------
+Restful services with Spring Boot
+👌Error handling
+Common errors
+Global error handler
+GlobalExceptionHandler
+@ControllerAdvice
+Custom exceptions
+ResourceNotFoundException class
+
