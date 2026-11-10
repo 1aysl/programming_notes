@@ -132,7 +132,19 @@ Layout with Flexbox
 justify-content (horizontal spacing)
 align-items (vertical alignment)
 fr (fraction)
+height: 100vh
+vh-viewport height-100% of the screen's height
+width: 100vw 
+vw-100% of the screen's width
+border-width: 2px;
+border-style: solid;
+border-color: green;
+border: 2px solid green;
 ----------------------------------------------------------------------------------------------------------------------
+hardcode
+bad practices
+----------------------------------------------------------------------------------------------------------------------
+lorem40
 ❤️‍🔥 Responsive design adapts different devices.
 @media query
 viewport media tag in html
