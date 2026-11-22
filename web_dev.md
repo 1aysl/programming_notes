@@ -218,10 +218,8 @@ Objects store data in key-value pairs.
 Create an array in JS
 let cars=["nissan", "mustang" "toyota"];
 or
-```
 let cars=new Array("nissan", "mustang", "toyota"]; // it's less commonly used.
 console.log(cars[0]); // accessing an element
-```
 
 Common array methods help to add, remove, and work with elements.
 push()
@@ -307,5 +305,3 @@ Links in HATEOS responses
   Action
   Transition
   Collection
-  
-
