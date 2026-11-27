@@ -3,10 +3,18 @@ authentication and authorization
 authentication -> who are you?
 authorization ->  what are you allowed to do?
 
+Security is another key consideration.
+
+Roles&Permissions
+
 Password encoding
 Role based access control
 Session management
 OAuth2, JWT and more...
+
+Access Token
+
+Google login
 
 SecurityFilterChain
 UsernamePasswordAuthenticationFilter
@@ -44,6 +52,22 @@ Generate an OAuth2 login page
 CSRF (Cross-Site Request Forgery)
 
 Stateless Restful API
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 CORS (Cross-Origin Resource Sharing)
 Define CORS configuration
+
+CSRF Attack ? Cross-Site Request Forgery
+A web browser stores the JSessionId in the cookie.
+CSRF Token -> is a unique value that has to be sent in request headers in addition to the sessionId.
+In this defense, when the server serves a page, it embeds an unpredictable value in the page, called the CSRF token.
+It is not saved in cookies.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Session based Authentication
+👀username
+👀roles
+👀permission
+👀session expiry
+jwt.io
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Google Cloud Console
+OAuth consent screen
